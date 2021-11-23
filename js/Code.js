@@ -1,25 +1,25 @@
-const accessCode1 = "VARIABLE";
-const accessCode2 = "FUNCTION";
-const accessCode3 = "DATABASE";
+const accessCode1 = "HAPPY";
+const accessCode2 = "ADDITON";
+const accessCode3 = "FOUR";
 
 function clues() {
     
     fill("white")
     textSize(15)
-    text("R E V B A I L A", 100,50)
+    text("Y P P A H", 100,50)
     fill("lightblue")
-    text("Hint: Always changing, not constant !!", 100,70)
+    text("Hint: Opposite of Sad !!", 100,70)
 
     fill("white")
     textSize(15)
-    text("C U T N I F O N", 700,150)
+    text(" DDATOIN" ,700,150)
     fill("lightblue")
-    text("Hint: Performs a particular task !!", 700,170)
+    text("Hint: This is a part of Bodmas !!", 700,170)
 
     fill("white")
     textSize(15)
-    text("A T E D A S B A", 100,250)
+    text("ROUF", 100,250)
     fill("lightblue")
-    text("Hint: Stores all information !!", 100,270)
+    text("Hint: 2+2 is ", 100,270)
 
 }
